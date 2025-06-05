@@ -1,0 +1,1160 @@
+{
+    "K_p": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+    ],
+    "K_n": [],
+    "K": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+    ],
+    "L": [
+        [
+            0,
+            1
+        ],
+        [
+            1,
+            0
+        ],
+        [
+            0,
+            2
+        ],
+        [
+            2,
+            0
+        ],
+        [
+            0,
+            3
+        ],
+        [
+            3,
+            0
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            2,
+            1
+        ],
+        [
+            1,
+            7
+        ],
+        [
+            7,
+            1
+        ],
+        [
+            2,
+            5
+        ],
+        [
+            5,
+            2
+        ],
+        [
+            3,
+            4
+        ],
+        [
+            4,
+            3
+        ],
+        [
+            3,
+            10
+        ],
+        [
+            10,
+            3
+        ],
+        [
+            4,
+            5
+        ],
+        [
+            5,
+            4
+        ],
+        [
+            4,
+            6
+        ],
+        [
+            6,
+            4
+        ],
+        [
+            5,
+            9
+        ],
+        [
+            9,
+            5
+        ],
+        [
+            5,
+            13
+        ],
+        [
+            13,
+            5
+        ],
+        [
+            6,
+            7
+        ],
+        [
+            7,
+            6
+        ],
+        [
+            7,
+            8
+        ],
+        [
+            8,
+            7
+        ],
+        [
+            8,
+            9
+        ],
+        [
+            9,
+            8
+        ],
+        [
+            8,
+            11
+        ],
+        [
+            11,
+            8
+        ],
+        [
+            8,
+            12
+        ],
+        [
+            12,
+            8
+        ],
+        [
+            10,
+            11
+        ],
+        [
+            11,
+            10
+        ],
+        [
+            10,
+            12
+        ],
+        [
+            12,
+            10
+        ],
+        [
+            11,
+            13
+        ],
+        [
+            13,
+            11
+        ],
+        [
+            12,
+            13
+        ],
+        [
+            13,
+            12
+        ]
+    ],
+    "F": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ],
+    "p_f_processing_capacity": {
+        "1": 24,
+        "2": 24,
+        "3": 24,
+        "4": 24,
+        "5": 24,
+        "6": 24,
+        "7": 24
+    },
+    "t_f_vnf_type_mapping": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7
+    },
+    "c_ij_link_capacities": [
+        {
+            "link": [
+                0,
+                1
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                1,
+                0
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                0,
+                2
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                2,
+                0
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                0,
+                3
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                3,
+                0
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                1,
+                2
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                2,
+                1
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                1,
+                7
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                7,
+                1
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                2,
+                5
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                5,
+                2
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                3,
+                4
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                4,
+                3
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                3,
+                10
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                10,
+                3
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                4,
+                5
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                5,
+                4
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                4,
+                6
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                6,
+                4
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                5,
+                9
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                9,
+                5
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                5,
+                13
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                13,
+                5
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                6,
+                7
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                7,
+                6
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                7,
+                8
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                8,
+                7
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                8,
+                9
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                9,
+                8
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                8,
+                11
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                11,
+                8
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                8,
+                12
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                12,
+                8
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                10,
+                11
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                11,
+                10
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                10,
+                12
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                12,
+                10
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                11,
+                13
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                13,
+                11
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                12,
+                13
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        },
+        {
+            "link": [
+                13,
+                12
+            ],
+            "capacity": 30,
+            "cost": 0.00001
+        }
+    ],
+    "x_vnf_hosting": [
+        {
+            "vnf_instance": 1,
+            "server": 0,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 1,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 2,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 3,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 4,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 5,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 6,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 7,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 8,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 9,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 10,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 11,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 12,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 1,
+            "server": 13,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 0,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 1,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 2,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 3,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 4,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 5,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 6,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 7,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 8,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 9,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 10,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 11,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 12,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 2,
+            "server": 13,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 0,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 1,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 2,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 3,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 4,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 5,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 6,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 7,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 8,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 9,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 10,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 11,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 12,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 3,
+            "server": 13,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 0,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 1,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 2,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 3,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 4,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 5,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 6,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 7,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 8,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 9,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 10,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 11,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 12,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 4,
+            "server": 13,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 0,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 1,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 2,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 3,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 4,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 5,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 6,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 7,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 8,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 9,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 10,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 11,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 12,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 5,
+            "server": 13,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 0,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 1,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 2,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 3,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 4,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 5,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 6,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 7,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 8,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 9,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 10,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 11,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 12,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 6,
+            "server": 13,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 0,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 1,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 2,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 3,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 4,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 5,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 6,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 7,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 8,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 9,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 10,
+            "is_hosted": 1,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 11,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 12,
+            "is_hosted": 0,
+            "cost": 0.5
+        },
+        {
+            "vnf_instance": 7,
+            "server": 13,
+            "is_hosted": 0,
+            "cost": 0.5
+        }
+    ]
+}
